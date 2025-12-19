@@ -1,16 +1,11 @@
-Pola (done): Lintang & Bima & MD
-Strategi Encoding standard(50%): Fajar & Cleon
+Pola (done): Lintang & Bima & Marvin Darren
+Strategi Encoding standard(50%): Fadjar & Cleon 
 Fitness Function (0%): Bima
 Strategi pemilihan kromosom untuk generasi berikutnya (0%): Lintang
-Main function (0%): MD
-
-
-Testing dan Experimen (0%): 
+Main function (0%): Fadjar, Marvin Darren
+Testing dan Experimen (0%): Cleon
 Dokumen (1%): Semua
 
 Mungkin dilakukan:
 Strategi encoding aneh aneh: unassigned
 Fitness untuk encoding aneh aneh: unassigned
-
-
-Bima Lintang MD Fajar Cleon
