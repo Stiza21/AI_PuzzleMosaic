@@ -42,5 +42,5 @@ public class Kromosom implements Comparable<Kromosom> {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
     }
-
+    
 }
