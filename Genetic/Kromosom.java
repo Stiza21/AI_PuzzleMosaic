@@ -1,13 +1,13 @@
-package Genetic;
-
+//package Genetic;
 //Kromosom -> satu konfigurasi puzzle mosaic 
 //Gene -> satu sel mosaic  warna / tile ID
 
 public class Kromosom implements Comparable<Kromosom> {
     private int[] genes;
+     private int fitness;
 
     public Kromosom(int[] genes) {
-        this.genes = genes;
+        this.genes = genes.clone();
     }
 
     public Kromosom(int PanjangKromosom) {
@@ -35,14 +35,15 @@ public class Kromosom implements Comparable<Kromosom> {
         return genes.clone();
     }
 
-    public Kromosom copy() {
-        return new Kromosom(genes);
+     public Kromosom copy() {
+        Kromosom clone = new Kromosom(this.genes);
+        clone.fitness = this.fitness;
+        return clone;
     }
 
     @Override
     public int compareTo(Kromosom o) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
+        return Integer.compare(this.fitness, o.fitness);
     }
 
 }

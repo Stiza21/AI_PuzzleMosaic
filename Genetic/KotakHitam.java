@@ -1,4 +1,4 @@
-package Genetic;
+//package Genetic;
 
 public class KotakHitam {
     private int sbX;

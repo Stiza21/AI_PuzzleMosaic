@@ -4,7 +4,7 @@ Fitness Function (0%): Bima
 Strategi pemilihan kromosom untuk generasi berikutnya (0%): Lintang
 Main function (0%): Fadjar, Marvin Darren
 Testing dan Experimen (0%): Cleon
-Dokumen (1%): Semua
+Dokumen (5%): Semua
 
 Mungkin dilakukan:
 Strategi encoding aneh aneh: unassigned
