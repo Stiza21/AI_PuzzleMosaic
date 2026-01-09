@@ -1,10 +1,9 @@
-//package Genetic;
 //Kromosom -> satu konfigurasi puzzle mosaic 
 //Gene -> satu sel mosaic  warna / tile ID
 
 public class Kromosom implements Comparable<Kromosom> {
     private int[] genes;
-     private int fitness;
+    private int fitness;
 
     public Kromosom(int[] genes) {
         this.genes = genes.clone();
@@ -45,5 +44,11 @@ public class Kromosom implements Comparable<Kromosom> {
     public int compareTo(Kromosom o) {
         return Integer.compare(this.fitness, o.fitness);
     }
-
+    
+    public double getNewFitness(){ //isi sesudah ada fitness
+        return 0.0;
+    }
+    public double konversiFitness(){ //isi sesudah ada fitness
+        return 0.0;
+    }
 }
