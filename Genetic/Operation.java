@@ -20,7 +20,7 @@ public class Operation {
         }
         return best;
     }
-    public void crossover(Kromosom[] population, int startidx, Population populasi){
+    public void crossover(Kromosom[] population, int startidx, Population populasi, int tipeCrossover){
         
         int index = startidx;
 
@@ -35,22 +35,16 @@ public class Operation {
                 Kromosom anak1 = new Kromosom(parent1.length());
                 Kromosom anak2 = new Kromosom(parent1.length());
 
-                int point = 1 + rndm.nextInt(parent1.length()-1);// di tambah 1 karena dalam 1 kromosom minimal ada 1 gene yang di crossover
-                //set gene 1 per 1 sampai ke point crossovernya
-                for (int i = 0; i < parent1.length(); i++) {
-                    if(i < point){
-                        anak1.setGene(i, parent1.getGene(index));
-                        anak2.setGene(i, parent2.getGene(index));
-                    }
-                    else{
-                        anak1.setGene(i, parent2.getGene(index));
-                        anak2.setGene(i, parent1.getGene(index));
-                    }
+                switch (tipeCrossover) {
+                    case 1: // One-Point Crossover
+                        onePointCrossover(parent1, parent2, anak1, anak2);
+                        break;
+                    case 2: // Uniform Crossover
+                        uniformCrossover(parent1, parent2, anak1, anak2);
+                        break;
+                    default:
+                        onePointCrossover(parent1, parent2, anak1, anak2);
                 }
-                anak1.konversiFitness();
-                anak2.konversiFitness();
-                //repairChromosom(anak1);
-                //repairChromosom(anak2);
 
                 population[index] = anak1;
                 if(index + 1 < population.length){
@@ -83,4 +77,43 @@ public class Operation {
         }
     }
 
+    public void onePointCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
+        int point = 1 + rndm.nextInt(parent1.length()-1);// di tambah 1 karena dalam 1 kromosom minimal ada 1 gene yang di crossover
+        //set gene 1 per 1 sampai ke point crossovernya
+        for (int i = 0; i < parent1.length(); i++) {
+            if(i < point){
+                anak1.setGene(i, parent1.getGene(i));
+                anak2.setGene(i, parent2.getGene(i));
+            }
+            else{
+                anak1.setGene(i, parent2.getGene(i));
+                anak2.setGene(i, parent1.getGene(i));
+            }
+        }
+
+        anak1.konversiFitness();
+        anak2.konversiFitness();
+        //repairChromosom(anak1);
+        //repairChromosom(anak2);
+    }
+
+
+    private void uniformCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2) {
+        // Set setiap gene 1 per 1 secara acak dari kedua parent dengan probabilitas seragam (0.5)
+        for (int i = 0; i < parent1.length(); i++) {
+            if(rndm.nextBoolean()){
+                anak1.setGene(i, parent1.getGene(i));
+                anak2.setGene(i, parent2.getGene(i));
+            }
+            else{
+                anak1.setGene(i, parent2.getGene(i));
+                anak2.setGene(i, parent1.getGene(i));
+            }
+        }
+
+        anak1.konversiFitness();
+        anak2.konversiFitness();
+        //repairChromosom(anak1);
+        //repairChromosom(anak2);
+    }
 }
