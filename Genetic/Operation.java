@@ -4,7 +4,7 @@ public class Operation {
     private double rateMutasi;
     private double crossoverRate;
     
-    public Operation(Random rndm, int seed, double rateMutasi, double crossoverRate){
+    public Operation( int seed, double rateMutasi, double crossoverRate){
         this.rndm = new Random(seed);
         this.rateMutasi = rateMutasi;
         this.crossoverRate = crossoverRate;

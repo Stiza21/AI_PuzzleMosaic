@@ -1,16 +1,29 @@
+
 //Kromosom -> satu konfigurasi puzzle mosaic 
 //Gene -> satu sel mosaic  warna / tile ID
+import java.util.Random;
 
 public class Kromosom implements Comparable<Kromosom> {
     private int[] genes;
     private int fitness;
+    private static Random rand;
 
     public Kromosom(int[] genes) {
         this.genes = genes.clone();
     }
 
+    // Set seed random di awal eksperimen
+    public static void setSeed(long seed) {
+        rand = new Random(seed);
+    }
+
     public Kromosom(int PanjangKromosom) {
         this.genes = new int[PanjangKromosom];
+
+        //inisiasi kromosom untuk populasi awal dengan random
+         for (int i = 0; i < PanjangKromosom; i++) {
+            genes[i] = rand.nextInt(2); // 0 atau 1
+        }
     }
 
     public int getGene(int idx) {
