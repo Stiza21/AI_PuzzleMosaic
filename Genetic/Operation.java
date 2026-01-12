@@ -58,26 +58,27 @@ public class Operation {
             }
         }
     }
-    public void mutasi(Kromosom [] population, int startidx, int boardSize){
+    public void mutasi(Kromosom [] population, int startidx, int boardSize, int tipeMutasi){
 
         for (int i = startidx; i < population.length; i++) {//loop cek kromosom pada populasi
             Kromosom cekKromosom = population[i];
-            for (int j = 0; j < boardSize*boardSize; j++) {
-                double rate = rndm.nextDouble();
-                if(rate < rateMutasi){
-                    if(cekKromosom.getGene(j) == 0){
-                        cekKromosom.setGene(j, 1);
-                    }
-                    else{
-                        cekKromosom.setGene(j, 0);
-                    }
-                }
+            switch (tipeMutasi) {
+                case 1: // Bit-Flip
+                    bitFlipMutation(cekKromosom, boardSize);
+                    break;
+                case 2: // Swap
+                    swapMutation(cekKromosom, boardSize);
+                    break;
+                case 3: // Sub-Grid 
+                    subGridMutation(cekKromosom, boardSize);
+                    break;
+                default:
+                    bitFlipMutation(cekKromosom, boardSize);
             }
-            
         }
     }
 
-    public void onePointCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
+    private void onePointCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
         int point = 1 + rndm.nextInt(parent1.length()-1);// di tambah 1 karena dalam 1 kromosom minimal ada 1 gene yang di crossover
         //set gene 1 per 1 sampai ke point crossovernya
         for (int i = 0; i < parent1.length(); i++) {
@@ -98,7 +99,7 @@ public class Operation {
     }
 
 
-    private void uniformCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2) {
+    private void uniformCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
         // Set setiap gene 1 per 1 secara acak dari kedua parent dengan probabilitas seragam (0.5)
         for (int i = 0; i < parent1.length(); i++) {
             if(rndm.nextBoolean()){
@@ -115,5 +116,67 @@ public class Operation {
         anak2.konversiFitness();
         //repairChromosom(anak1);
         //repairChromosom(anak2);
+    }
+
+
+    private void bitFlipMutation(Kromosom cekKromosom, int boardSize){
+        for (int j = 0; j < boardSize * boardSize; j++) {
+            double rate = rndm.nextDouble();
+            if(rate < rateMutasi){
+                if(cekKromosom.getGene(j) == 0){
+                    cekKromosom.setGene(j, 1);
+                }
+                else{
+                    cekKromosom.setGene(j, 0);
+                }
+            }
+        }
+    }
+
+    private void swapMutation(Kromosom cekKromosom, int boardSize) {
+        if(rndm.nextDouble() < rateMutasi){
+            int pos1 = rndm.nextInt(boardSize * boardSize);
+            int pos2 = rndm.nextInt(boardSize * boardSize);
+
+            int gene1 = cekKromosom.getGene(pos1);
+            int gene2 = cekKromosom.getGene(pos2);
+
+            // Perform the swap
+            cekKromosom.setGene(pos1, gene2);
+            cekKromosom.setGene(pos2, gene1);
+        }
+    }
+
+    private void subGridMutation(Kromosom cekKromosom, int boardSize) {
+        if(rndm.nextDouble() < rateMutasi){
+            // Titik tengah random (0 sampai 24)
+            int centerIdx = rndm.nextInt(boardSize * boardSize);
+            
+            // Index 1D ke koordinat 2D
+            int centerX = centerIdx % boardSize;
+            int centerY = centerIdx / boardSize;
+
+            // Loop 3x3 neighbor (-1 sampai +1)
+            for (int dy = -1; dy <= 1; dy++) {
+                for (int dx = -1; dx <= 1; dx++) {
+                    int nx = centerX + dx;
+                    int ny = centerY + dy;
+
+                    // Cek boundary
+                    if(nx >= 0 && nx < boardSize && ny >= 0 && ny < boardSize){
+                        // Memetakan koordinat 2D ke index 1D
+                        int targetIdx = (ny * boardSize) + nx;
+                        int currVal = cekKromosom.getGene(targetIdx);
+
+                        if(currVal == 0){
+                            cekKromosom.setGene(targetIdx, 1);
+                        } 
+                        else{
+                            cekKromosom.setGene(targetIdx, 0);
+                        }
+                    }
+                }
+            }
+        }
     }
 }
