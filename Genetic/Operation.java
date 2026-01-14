@@ -39,7 +39,10 @@ public class Operation {
                     case 1: // One-Point Crossover
                         onePointCrossover(parent1, parent2, anak1, anak2);
                         break;
-                    case 2: // Uniform Crossover
+                    case 2; //Two-Point Crossover
+                        twoPointCrossover(parent1, parent2, anak1, anak2);
+                        break;
+                    case 3: // Uniform Crossover
                         uniformCrossover(parent1, parent2, anak1, anak2);
                         break;
                     default:
@@ -98,6 +101,30 @@ public class Operation {
         //repairChromosom(anak2);
     }
 
+     private void twoPointCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
+        int point1 = 1 + rndm.nextInt(parent1.length()-1);// di tambah 1 karena dalam 1 kromosom minimal ada 1 gene yang di crossover
+        int point2 = rndm.nextInt((parent1.length()-1) - point1) + point1 + 1;
+        //set gene 1 per 1 sampai ke point crossovernya
+        for (int i = 0; i < parent1.length(); i++) {
+            if(i < point1){
+                anak1.setGene(i, parent1.getGene(i));
+                anak2.setGene(i, parent2.getGene(i));
+            }
+            else if (i < point2) {
+                anak1.setGene(i, parent2.getGene(i));
+                anak2.setGene(i, parent1.getGene(i));
+            }
+            else{
+                anak1.setGene(i, parent1.getGene(i));
+                anak2.setGene(i, parent2.getGene(i));
+            }
+        }
+
+        anak1.konversiFitness();
+        anak2.konversiFitness();
+        //repairChromosom(anak1);
+        //repairChromosom(anak2);
+    }
 
     private void uniformCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
         // Set setiap gene 1 per 1 secara acak dari kedua parent dengan probabilitas seragam (0.5)
