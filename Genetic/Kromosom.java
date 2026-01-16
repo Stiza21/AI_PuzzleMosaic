@@ -5,23 +5,24 @@ import java.util.Random;
 
 public class Kromosom implements Comparable<Kromosom> {
     private int[] genes;
-    private int fitness;
-    private static Random rand;
+    private int fitness=1;
 
     public Kromosom(int[] genes) {
         this.genes = genes.clone();
     }
 
     // Set seed random di awal eksperimen
-    public static void setSeed(long seed) {
-        rand = new Random(seed);
+    // public static void setSeed(long seed) {
+    //     rand = new Random(seed);
+    // }
+    public Kromosom(int panjangKromosom){
+        this.genes = new int[panjangKromosom];
     }
 
-    public Kromosom(int PanjangKromosom) {
-        this.genes = new int[PanjangKromosom];
-
+    public Kromosom(int panjangKromosom, Random rand) {
+        this.genes = new int[panjangKromosom];
         //inisiasi kromosom untuk populasi awal dengan random
-         for (int i = 0; i < PanjangKromosom; i++) {
+         for (int i = 0; i < panjangKromosom; i++) {
             genes[i] = rand.nextInt(2); // 0 atau 1
         }
     }
@@ -58,14 +59,16 @@ public class Kromosom implements Comparable<Kromosom> {
         return Integer.compare(this.fitness, o.fitness);
     }
     
-    public double getNewFitness(){ //isi sesudah ada fitness
-        return 0.0;
+    public int getNewFitness(){ //isi sesudah ada fitness
+        if (this.fitness==1) this.fitness=fitness();
+        return this.fitness;
     }
-    public double konversiFitness(){ //isi sesudah ada fitness
-        return 0.0;
+    public void konversiFitness(){ //isi sesudah ada fitness
+        this.fitness = fitness();
     }
 
-    public int fitness(Layout layout){
+    public int fitness(){
+        Layout layout = Main.layout;
         int total=0;
         for (int i=0;i<layout.request.length;i++){
             for (int j=0;j<layout.request[i].length;j++){
@@ -78,7 +81,7 @@ public class Kromosom implements Comparable<Kromosom> {
                 total+=Math.abs(deviation);
             }
         }
-        return total;
+        return -total;
     }
 
 }

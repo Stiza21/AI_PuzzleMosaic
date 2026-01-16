@@ -4,12 +4,17 @@ public class Operation {
     private double rateMutasi;
     private double crossoverRate;
     
-    public Operation( int seed, double rateMutasi, double crossoverRate){
-        this.rndm = new Random(seed);
+    public Operation(Random rndm, double rateMutasi, double crossoverRate){
+        this.rndm = rndm;
         this.rateMutasi = rateMutasi;
         this.crossoverRate = crossoverRate;
     }
-    public Kromosom Tournament(Population populasi){
+    public Kromosom selectionFunction(Population populasi){
+        return rouletteWheelSelection(populasi);
+        //return rankSelection(populasi);
+        //return tournamentSelection(populasi);
+    }
+    public Kromosom tournamentSelection(Population populasi){
         Kromosom best = populasi.getKromFromPopulation(rndm.nextInt(populasi.getSizePopulation()));
         int numOfParticipants = 3;
         for (int i= 0; i < numOfParticipants; i++) {
@@ -20,6 +25,7 @@ public class Operation {
         }
         return best;
     }
+
 
     public Kromosom rouletteWheelSelection(Population populasi){
         double totalFitness = 0.0;
@@ -71,17 +77,17 @@ public class Operation {
     }
 
 
-    public void crossover(Kromosom[] population, int startidx, Population populasi, int tipeCrossover){
-        
+    public Population crossover(Population population, int startidx, int tipeCrossover){
+        Kromosom[] newPop = new Kromosom[population.getSizePopulation()];
         int index = startidx;
 
-        while(index < population.length){
+        while(index < population.getSizePopulation()){
             double rndmValue = rndm.nextDouble();
 
+            Kromosom parent1 = selectionFunction(population);
+            Kromosom parent2 = selectionFunction(population);
             if(rndmValue < crossoverRate){
 
-                Kromosom parent1 = Tournament(populasi);
-                Kromosom parent2 = Tournament(populasi);
                 //buat anak dengan isi gene kosong dan panjang gene sepanjang parent
                 Kromosom anak1 = new Kromosom(parent1.length());
                 Kromosom anak2 = new Kromosom(parent1.length());
@@ -90,7 +96,7 @@ public class Operation {
                     case 1: // One-Point Crossover
                         onePointCrossover(parent1, parent2, anak1, anak2);
                         break;
-                    case 2; //Two-Point Crossover
+                    case 2: //Two-Point Crossover
                         twoPointCrossover(parent1, parent2, anak1, anak2);
                         break;
                     case 3: // Uniform Crossover
@@ -99,23 +105,26 @@ public class Operation {
                     default:
                         onePointCrossover(parent1, parent2, anak1, anak2);
                 }
-
-                population[index] = anak1;
-                if(index + 1 < population.length){
-                    population[index+1] = anak2;
+                newPop[index]=anak1;
+                if(index + 1 < newPop.length){
+                    newPop[index+1]=anak2;
                 }
                 index +=2;
             }
             else{//jika tidak terjadi crossover, gene nya ambil dari parent terbaik
-                population[index] = Tournament(populasi);
+                newPop[index] = parent1.getNewFitness()>parent2.getNewFitness()? parent1:parent2; 
                 index++;
             }
         }
+        //perlu spesifikasi method mutasi
+        mutasi(newPop,0,population.getboardSize(), 0);
+        return new Population(newPop, population.getboardSize());
     }
     public void mutasi(Kromosom [] population, int startidx, int boardSize, int tipeMutasi){
 
         for (int i = startidx; i < population.length; i++) {//loop cek kromosom pada populasi
             Kromosom cekKromosom = population[i];
+            if (rndm.nextDouble()<rateMutasi)
             switch (tipeMutasi) {
                 case 1: // Bit-Flip
                     bitFlipMutation(cekKromosom, boardSize);

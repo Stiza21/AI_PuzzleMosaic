@@ -1,0 +1,5 @@
+seed= 80
+populasiAwal= 1000
+banyakGenerasi= 100
+rateMutasi= 0.007
+crossoverRate= 0.9
