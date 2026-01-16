@@ -20,6 +20,57 @@ public class Operation {
         }
         return best;
     }
+
+    public Kromosom rouletteWheelSelection(Population populasi){
+        double totalFitness = 0.0;
+
+        //hitung total fitness karena lebih kecil lebih baik maka fungsinya dibalik(lebih kecil nilai fitness lebih baik kromosom)
+        for(int i = 0 ;i<populasi.getSizePopulation();i++){
+            totalFitness +=1.0/populasi.getKromFromPopulation(i).getNewFitness();//mencari total fitness dengan fitness terendah memiliki bobot terbesar
+        }
+        //Ambil nilai acak dianatara 0 dan total fitness
+        double rand = rndm.nextDouble()*totalFitness;
+        //nilai yang akan digunakan untuk memilih kromosom
+        double proporsi = 0.0;
+
+        //iterasi untuk memilih kromosom
+        for(int i = 0;i<populasi.getSizePopulation();i++){
+            Kromosom krom = populasi.getKromFromPopulation(i);
+            proporsi +=1.0/krom.getNewFitness();
+            //jika nilai proporsi sudah melebihi random maka kromosom itulah yang dipilih
+            if(proporsi >= rand){
+                return krom;
+            }
+        }
+
+        //fallback bila error terjadi
+        return populasi.getKromFromPopulation(populasi.getSizePopulation()-1);//diambil paling akhir karena di awal akan digunakan untuk elitism
+    }
+
+    //ASUMSINYA ADALAH SEMUA KROMOSOM SUDAH TERURUT BERDASARKAN FITNESS 
+    public Kromosom rankSelection(Population populasi){
+        int n =populasi.getSizePopulation();
+
+        //menghitung total bobot seleksi dengan bobot tertinggi bernilai n dan yang terendah berbobot 1
+        int totalRank = n*(n+1)/2;
+
+        int rand = rndm.nextInt(totalRank)+1;//di +1 agar rentang nilainya menjadi 1<= x <= totalRank
+
+        int proporsi = 0;
+        for(int i = 0;i<n;i++){
+            int rank = n-i;//mulai dari yang memiliki nilai fitness terbaik memiliki rank sebanyak n hingga yna gterburuk memiliki rank 1
+            proporsi +=rank;
+
+            if(proporsi>=rand){
+                return populasi.getKromFromPopulation(i);
+            }
+        }
+
+        //fallback untuk error
+        return populasi.getKromFromPopulation(n-1);
+    }
+
+
     public void crossover(Kromosom[] population, int startidx, Population populasi, int tipeCrossover){
         
         int index = startidx;
