@@ -163,7 +163,7 @@ public class Operation {
 
      private void twoPointCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
         int point1 = 1 + rndm.nextInt(parent1.length()-1);// di tambah 1 karena dalam 1 kromosom minimal ada 1 gene yang di crossover
-        int point2 = rndm.nextInt((parent1.length()-1) - point1) + point1 + 1;
+        int point2 = rndm.nextInt((parent1.length()) - point1) + point1 + 1;
         //set gene 1 per 1 sampai ke point crossovernya
         for (int i = 0; i < parent1.length(); i++) {
             if(i < point1){
