@@ -10,16 +10,16 @@ public class Operation {
         this.crossoverRate = crossoverRate;
     }
     public Kromosom selectionFunction(Population populasi){
-        return rouletteWheelSelection(populasi);
+        //return rouletteWheelSelection(populasi);
         //return rankSelection(populasi);
-        //return tournamentSelection(populasi);
+        return tournamentSelection(populasi);
     }
     public Kromosom tournamentSelection(Population populasi){
         Kromosom best = populasi.getKromFromPopulation(rndm.nextInt(populasi.getSizePopulation()));
         int numOfParticipants = 3;
         for (int i= 0; i < numOfParticipants-1; i++) {//dilakukan -1 agar jumlah total participantnya 3 karena best sudah terhitung sebagai participant(line 18)
             Kromosom participant = populasi.getKromFromPopulation(rndm.nextInt(populasi.getSizePopulation()));
-            if(participant.getNewFitness() < best.getNewFitness()){
+            if(participant.getNewFitness() > best.getNewFitness()){
                 best=participant;
             }
         }
@@ -28,12 +28,22 @@ public class Operation {
 
 
     public Kromosom rouletteWheelSelection(Population populasi){
+         double minFitness = Double.MAX_VALUE;//nilai minimum yang akan digunakan untuk melakukan shiift agar bobot bernilai positif
+
+    // Cari fitness terendah (paling negatif)
+    for(int i = 0; i < populasi.getSizePopulation(); i++){
+        double f = populasi.getKromFromPopulation(i).getNewFitness();
+        if(f < minFitness) minFitness = f;
+    }
+        
         double totalFitness = 0.0;
 
         //hitung total fitness karena lebih kecil lebih baik maka fungsinya dibalik(lebih kecil nilai fitness lebih baik kromosom)
         for(int i = 0 ;i<populasi.getSizePopulation();i++){
-            totalFitness +=1.0/populasi.getKromFromPopulation(i).getNewFitness();//mencari total fitness dengan fitness terendah memiliki bobot terbesar
+           double weight = populasi.getKromFromPopulation(i).getNewFitness() - minFitness + 1;//dilakukan +1 agar bobot tidak [ernah berni;ao 0 dengan kromosom terburuk bernilai 1 dan kromosom terbaik bernilai besar
+            totalFitness += weight;
         }
+
         //Ambil nilai acak dianatara 0 dan total fitness
         double rand = rndm.nextDouble()*totalFitness;
         //nilai yang akan digunakan untuk memilih kromosom
@@ -42,7 +52,8 @@ public class Operation {
         //iterasi untuk memilih kromosom
         for(int i = 0;i<populasi.getSizePopulation();i++){
             Kromosom krom = populasi.getKromFromPopulation(i);
-            proporsi +=1.0/krom.getNewFitness();
+             double weight = krom.getNewFitness() - minFitness + 1;
+              proporsi +=weight;
             //jika nilai proporsi sudah melebihi random maka kromosom itulah yang dipilih
             if(proporsi >= rand){
                 return krom;
@@ -64,7 +75,7 @@ public class Operation {
 
         int proporsi = 0;
         for(int i = 0;i<n;i++){
-            int rank = n-i;//mulai dari yang memiliki nilai fitness terbaik memiliki rank sebanyak n hingga yna gterburuk memiliki rank 1
+            int rank = n-i;//mulai dari yang memiliki nilai fitness terbaik memiliki rank sebanyak n hingga yang terburuk memiliki rank 1
             proporsi +=rank;
 
             if(proporsi>=rand){
