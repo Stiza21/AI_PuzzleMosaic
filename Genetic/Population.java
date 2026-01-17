@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Random;
 
 public class Population {
@@ -39,5 +40,10 @@ public class Population {
     public void setKromosom(int idx, Kromosom krom){
         this.population[idx]=krom;
     }
+
+    public void sortByFitnessDesc(){
+    Arrays.sort(population, (a, b) -> 
+        Integer.compare(b.getNewFitness(), a.getNewFitness()));
+}
     
 }

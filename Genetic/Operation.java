@@ -92,6 +92,7 @@ public class Operation {
 
     public Population crossover(Population population, int tipeCrossover){
         Kromosom[] newPop = new Kromosom[population.getSizePopulation()];
+        population.sortByFitnessDesc();
         int index = Math.max(0, (int)(elitismRate * population.getSizePopulation()));//elitism dengan asumsi tidak pernah 0
         // asumsi populasi sudah terurut dari terbaik ke terburuk
         for(int i = 0; i < index; i++){

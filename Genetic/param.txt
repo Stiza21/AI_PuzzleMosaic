@@ -3,4 +3,4 @@ populasiAwal= 10000
 banyakGenerasi= 10000
 rateMutasi= 0.007
 crossoverRate= 0.9
-elitismRate= 0
+elitismRate= 0.1
