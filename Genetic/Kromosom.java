@@ -72,10 +72,11 @@ public class Kromosom implements Comparable<Kromosom> {
         int total=0;
         for (int i=0;i<layout.request.length;i++){
             for (int j=0;j<layout.request[i].length;j++){
+                if (layout.request[i][j]==-1) continue;
                 int deviation =layout.request[i][j];
                 for (int k=i-1;k<=i+1;k++){
                     for (int l=j-1;l<=j+1;l++){
-                        if (k>0&&k<layout.request.length&&l>0&&l<layout.request[i].length) deviation-=this.genes[k*layout.request[i].length+l];
+                        if (k>=0&&k<layout.request.length&&l>=0&&l<layout.request[i].length) deviation-=this.genes[k*layout.request[i].length+l];
                     }
                 }
                 total+=Math.abs(deviation);
