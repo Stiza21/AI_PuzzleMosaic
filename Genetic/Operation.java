@@ -3,11 +3,13 @@ public class Operation {
     private Random rndm;
     private double rateMutasi;
     private double crossoverRate;
+    private double elitismRate;
     
-    public Operation(Random rndm, double rateMutasi, double crossoverRate){
+    public Operation(Random rndm, double rateMutasi, double crossoverRate,double elitismRate){
         this.rndm = rndm;
         this.rateMutasi = rateMutasi;
         this.crossoverRate = crossoverRate;
+        this.elitismRate=elitismRate;
     }
     public Kromosom selectionFunction(Population populasi){
         //return rouletteWheelSelection(populasi);
@@ -88,9 +90,13 @@ public class Operation {
     }
 
 
-    public Population crossover(Population population, int startidx, int tipeCrossover){
+    public Population crossover(Population population, int tipeCrossover){
         Kromosom[] newPop = new Kromosom[population.getSizePopulation()];
-        int index = startidx;
+        int index = Math.max(0, (int)(elitismRate * population.getSizePopulation()));//elitism dengan asumsi tidak pernah 0
+        // asumsi populasi sudah terurut dari terbaik ke terburuk
+        for(int i = 0; i < index; i++){
+        newPop[i] = population.getKromFromPopulation(i).copy();
+        }
 
         while(index < population.getSizePopulation()){
             double rndmValue = rndm.nextDouble();
@@ -128,7 +134,7 @@ public class Operation {
             }
         }
         //perlu spesifikasi method mutasi
-        mutasi(newPop,0,population.getboardSize(), 0);
+        mutasi(newPop,index,population.getboardSize(), 0);
         return new Population(newPop, population.getboardSize());
     }
     public void mutasi(Kromosom [] population, int startidx, int boardSize, int tipeMutasi){

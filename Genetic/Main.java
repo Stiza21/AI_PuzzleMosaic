@@ -8,7 +8,7 @@ public class Main {
     static Random rd;
     public static void main(String[] args) {
         int seed=0,populasiAwal=0, banyakGenerasi=0;
-        double rateMutasi=0,crossoverRate=0;
+        double rateMutasi=0,crossoverRate=0,elitismRate=0;
         int boardSize=0;
         //input logic
         try {
@@ -19,6 +19,8 @@ public class Main {
             banyakGenerasi = Integer.parseInt(scParam.nextLine().strip().substring(16));
             rateMutasi = Double.parseDouble(scParam.nextLine().strip().substring(11));
             crossoverRate = Double.parseDouble(scParam.nextLine().strip().substring(14));
+            elitismRate = Double.parseDouble(scParam.nextLine().strip().substring(12));
+
             scParam.close();
             File filePuzzle = new File("Genetic/puzzle.txt");
             Scanner scPuzzle = new Scanner(filePuzzle);
@@ -43,7 +45,7 @@ public class Main {
         System.out.printf("using seed %d crossover rate:%f mutation rate:%f\n", seed,crossoverRate,rateMutasi);
         //pembuatan objek random dan operasi
         rd = new Random(seed);
-        Operation op = new Operation(rd,rateMutasi,crossoverRate);
+        Operation op = new Operation(rd,rateMutasi,crossoverRate,elitismRate);
         //pembuatan populasi awal
         Population population = new Population(boardSize);
         population.generatePop(boardSize*boardSize,rd);
@@ -51,7 +53,7 @@ public class Main {
         int bestFitness = best.getNewFitness();
         while(banyakGenerasi-->0){
             //perlu specify make tipe crossover yang mana
-            population = op.crossover(population, 0, 1);
+            population = op.crossover(population,  1);
             Kromosom generationBest = population.getBest();
             if (generationBest.getNewFitness()>bestFitness){
                 best = generationBest;

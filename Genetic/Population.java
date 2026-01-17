@@ -27,9 +27,9 @@ public class Population {
     }
     public Kromosom getBest(){
         int best=0;
-        int bestFitness=1;
-        for (int i=0;i<population.length;i++){
-            if (bestFitness>population[i].getNewFitness()){
+        int bestFitness=population[0].getNewFitness();
+        for (int i=1;i<population.length;i++){
+            if (bestFitness<population[i].getNewFitness()){
                 best=i;
                 bestFitness=population[i].getNewFitness();
             }
