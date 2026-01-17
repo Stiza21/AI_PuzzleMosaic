@@ -17,7 +17,7 @@ public class Operation {
     public Kromosom tournamentSelection(Population populasi){
         Kromosom best = populasi.getKromFromPopulation(rndm.nextInt(populasi.getSizePopulation()));
         int numOfParticipants = 3;
-        for (int i= 0; i < numOfParticipants; i++) {
+        for (int i= 0; i < numOfParticipants-1; i++) {//dilakukan -1 agar jumlah total participantnya 3 karena best sudah terhitung sebagai participant(line 18)
             Kromosom participant = populasi.getKromFromPopulation(rndm.nextInt(populasi.getSizePopulation()));
             if(participant.getNewFitness() < best.getNewFitness()){
                 best=participant;
