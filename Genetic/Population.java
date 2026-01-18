@@ -4,9 +4,9 @@ import java.util.Random;
 public class Population {
     private Kromosom [] population;
     int boardSize;
-    public Population(int boardSize){
+    public Population(int boardSize, int populasiAwal){
         this.boardSize = boardSize;
-        this.population = new Kromosom[boardSize*boardSize];
+        this.population = new Kromosom[populasiAwal];
     }
     public Population(Kromosom[] pop, int boardSize){
         this.population = pop.clone();
@@ -15,6 +15,11 @@ public class Population {
     public void generatePop(int panjangKromosom, Random rndm){
         for(int i = 0; i<this.population.length; i++){
             this.population[i] = new Kromosom(panjangKromosom, rndm);
+        }
+    }
+    public void generateWeighted(int panjangKromosom, Random rndm){
+        for (int i=0;i<this.population.length;i++){
+            this.population[i] = new WeightedKromosom(this.boardSize, rndm);
         }
     }
     public int getboardSize(){
