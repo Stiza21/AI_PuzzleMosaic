@@ -4,8 +4,8 @@
 import java.util.Random;
 
 public class Kromosom implements Comparable<Kromosom> {
-    private int[] genes;
-    private int fitness=1;
+    protected int[] genes;
+    protected int fitness=1;
 
     public Kromosom(int[] genes) {
         this.genes = genes.clone();
@@ -23,9 +23,10 @@ public class Kromosom implements Comparable<Kromosom> {
         this.genes = new int[panjangKromosom];
         //inisiasi kromosom untuk populasi awal dengan random
          for (int i = 0; i < panjangKromosom; i++) {
-            genes[i] = rand.nextInt(2); // 0 atau 1
+            this.genes[i] = rand.nextInt(2); // 0 atau 1
         }
     }
+    //untuk weighted
 
     public int getGene(int idx) {
         return genes[idx];

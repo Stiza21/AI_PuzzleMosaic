@@ -138,6 +138,40 @@ public class Operation {
         mutasi(newPop,index,population.getboardSize(), 0);
         return new Population(newPop, population.getboardSize());
     }
+
+    public Population blameCrossover(Population population, int startidx){
+        WeightedKromosom[] newPop = new WeightedKromosom[population.getSizePopulation()];
+        int index = startidx;
+        while(index < population.getSizePopulation()){
+            double rndmValue = rndm.nextDouble();
+
+            WeightedKromosom parent1 = (WeightedKromosom)selectionFunction(population);
+            WeightedKromosom parent2 = (WeightedKromosom)selectionFunction(population);
+            if(rndmValue < crossoverRate){
+
+                //buat anak dengan isi gene kosong dan panjang gene sepanjang parent
+                WeightedKromosom anak1 = new WeightedKromosom(parent1.length());
+                WeightedKromosom anak2 = new WeightedKromosom(parent1.length());
+
+                blameCrossover(parent1,parent2, anak1, anak2);
+                newPop[index]=anak1;
+                if(index + 1 < newPop.length){
+                    newPop[index+1]=anak2;
+                }
+                index +=2;
+            }
+            else{//jika tidak terjadi crossover, gene nya ambil dari parent terbaik
+                newPop[index] = parent1.getNewFitness()>parent2.getNewFitness()? parent1:parent2; 
+                index++;
+            }
+        }
+        //perlu spesifikasi method mutasi
+        mutasi(newPop,0,population.getboardSize(), 0);
+        return new Population(newPop, population.getboardSize());
+    }
+
+
+
     public void mutasi(Kromosom [] population, int startidx, int boardSize, int tipeMutasi){
 
         for (int i = startidx; i < population.length; i++) {//loop cek kromosom pada populasi
@@ -283,5 +317,25 @@ public class Operation {
                 }
             }
         }
+    }
+
+
+    private void blameCrossover(Kromosom parent1, Kromosom parent2, Kromosom anak1, Kromosom anak2){
+        // Set setiap gene 1 per 1 secara acak dari kedua parent dengan probabilitas seragam (0.5)
+        for (int i = 0; i < parent1.length(); i++) {
+            if(((WeightedKromosom)parent1).compareBlame((WeightedKromosom) parent2, i, rndm)){
+                anak1.setGene(i, parent1.getGene(i));
+                anak2.setGene(i, parent2.getGene(i));
+            }
+            else{
+                anak1.setGene(i, parent2.getGene(i));
+                anak2.setGene(i, parent1.getGene(i));
+            }
+        }
+
+        anak1.konversiFitness();
+        anak2.konversiFitness();
+        //repairChromosom(anak1);
+        //repairChromosom(anak2);
     }
 }

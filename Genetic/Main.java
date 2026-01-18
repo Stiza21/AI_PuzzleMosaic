@@ -35,7 +35,6 @@ public class Main {
                 }
                 request.add(line);
             }
-
             layout = new Layout(request.toArray(new int[boardSize][]));
             scPuzzle.close();
         } catch (Exception e) {
@@ -47,13 +46,21 @@ public class Main {
         rd = new Random(seed);
         Operation op = new Operation(rd,rateMutasi,crossoverRate,elitismRate);
         //pembuatan populasi awal
-        Population population = new Population(boardSize);
+        Population population = new Population(boardSize,populasiAwal);
+        
+        //ganti sesuai encoding yang dipakai
         population.generatePop(boardSize*boardSize,rd);
+        //population.generateWeighted(boardSize*boardSize,rd);
+
         Kromosom best = population.getBest();
         int bestFitness = best.getNewFitness();
         while(banyakGenerasi-->0){
+            //System.out.println(banyakGenerasi+" generasi tersisa");
+
             //perlu specify make tipe crossover yang mana
-            population = op.crossover(population,  1);
+            population = op.crossover(population, 1);
+            //population = op.blameCrossover(population, 0);
+
             Kromosom generationBest = population.getBest();
             if (generationBest.getNewFitness()>bestFitness){
                 best = generationBest;
