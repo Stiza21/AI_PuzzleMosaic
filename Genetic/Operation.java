@@ -4,12 +4,14 @@ public class Operation {
     private double rateMutasi;
     private double crossoverRate;
     private double elitismRate;
+    private boolean[] isFixed;
     
-    public Operation(Random rndm, double rateMutasi, double crossoverRate,double elitismRate){
+    public Operation(Random rndm, double rateMutasi, double crossoverRate,double elitismRate,boolean[] isFixed){
         this.rndm = rndm;
         this.rateMutasi = rateMutasi;
         this.crossoverRate = crossoverRate;
         this.elitismRate=elitismRate;
+        this.isFixed = isFixed;
     }
     public Kromosom selectionFunction(Population populasi){
         //return rouletteWheelSelection(populasi);
@@ -259,7 +261,9 @@ public class Operation {
 
 
     private void bitFlipMutation(Kromosom cekKromosom, int boardSize){
+        
         for (int j = 0; j < boardSize * boardSize; j++) {
+            if(isFixed != null && isFixed[j]) continue;//heuristik
             double rate = rndm.nextDouble();
             if(rate < rateMutasi){
                 if(cekKromosom.getGene(j) == 0){
@@ -276,6 +280,7 @@ public class Operation {
         if(rndm.nextDouble() < rateMutasi){
             int pos1 = rndm.nextInt(boardSize * boardSize);
             int pos2 = rndm.nextInt(boardSize * boardSize);
+            if(isFixed != null && (isFixed[pos1] || isFixed[pos2])) return;
 
             int gene1 = cekKromosom.getGene(pos1);
             int gene2 = cekKromosom.getGene(pos2);
@@ -306,6 +311,9 @@ public class Operation {
                         // Memetakan koordinat 2D ke index 1D
                         int targetIdx = (ny * boardSize) + nx;
                         int currVal = cekKromosom.getGene(targetIdx);
+                        if (isFixed != null && isFixed[targetIdx]) {
+                        continue; 
+                    }
 
                         if(currVal == 0){
                             cekKromosom.setGene(targetIdx, 1);

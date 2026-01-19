@@ -1,6 +1,6 @@
-seed= 80
-populasiAwal= 10000
-banyakGenerasi= 1000
+seed= 69
+populasiAwal= 1000
+banyakGenerasi= 100
 rateMutasi= 0.007
 crossoverRate= 0.9
 elitismRate= 0.1

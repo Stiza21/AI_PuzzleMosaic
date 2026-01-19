@@ -12,11 +12,28 @@ public class Population {
         this.population = pop.clone();
         this.boardSize=boardSize;
     }
-    public void generatePop(int panjangKromosom, Random rndm){
-        for(int i = 0; i<this.population.length; i++){
-            this.population[i] = new Kromosom(panjangKromosom, rndm);
+   public void generatePop(int panjangKromosom, Random rndm, boolean[] isFixed, int[] fixedValues) {
+    for (int i = 0; i < this.population.length; i++) {
+        //buat objek kromosom kosong 
+        Kromosom krom = new Kromosom(panjangKromosom); 
+        
+        //isi gen satu per satu berdasarkan aturan heuristik
+        for (int j = 0; j < panjangKromosom; j++) {
+            if (isFixed != null && isFixed[j]) {
+                //Jika gen dikunci, gunakan nilai dari heuristik 0 atau 1 sesuai tabel isFixed
+                krom.setGene(j, fixedValues[j]);
+            } else {
+                // Jika gen bebas, baru gunakan random
+                krom.setGene(j, rndm.nextInt(2));
+            }
         }
+        
+        // 3. Masukkan ke dalam array populasi
+        this.population[i] = krom;
+        
     }
+}
+
     public void generateWeighted(int panjangKromosom, Random rndm){
         for (int i=0;i<this.population.length;i++){
             this.population[i] = new WeightedKromosom(this.boardSize, rndm);
