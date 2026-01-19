@@ -22,5 +22,6 @@ public class Layout {
                 this.chance[i][j] = chanceBlack[i][j]/(chanceBlack[i][j]+chanceWhite[i][j]);
             }
         }
+        System.out.println("layout terbuat");
     }
 }

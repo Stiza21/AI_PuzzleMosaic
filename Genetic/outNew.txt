@@ -1,0 +1,5738 @@
+layout terbuat
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness -5
+1 0 0 1 1 
+1 1 0 0 1 
+0 1 0 1 0 
+0 0 1 0 0 
+0 0 0 1 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness -2
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 0 1 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness -1
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 1 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 130 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 130: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness -4
+1 0 0 1 0 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness -4
+1 0 0 1 0 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness -4
+1 0 0 1 0 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 0 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness -3
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+0 1 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12521431 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12521431: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -7
+1 0 0 0 0 
+1 1 1 1 1 
+0 0 0 1 1 
+1 0 0 0 1 
+0 1 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -7
+1 0 0 0 0 
+1 1 1 1 1 
+0 0 0 1 1 
+1 0 0 0 1 
+0 1 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -7
+1 0 0 0 0 
+1 1 1 1 1 
+0 0 0 1 1 
+1 0 0 0 1 
+0 1 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness -4
+1 0 0 0 1 
+1 1 0 1 1 
+0 1 0 1 1 
+1 0 0 1 0 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 1000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -5
+0 0 0 0 0 
+1 1 1 1 1 
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+0 1 0 1 0 
+1 0 0 0 1 
+0 1 0 1 1 
+0 0 0 1 1 
+1 0 1 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 5000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+1 1 0 0 1 
+1 1 1 0 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 1000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness -1
+1 0 0 0 1 
+1 0 0 1 1 
+0 1 1 1 0 
+0 0 1 0 1 
+1 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.500000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.900000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 5000 crossover rate:0.130000 mutation rate:0.003000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.002000 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.500000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.300000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.100000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.900000 mutation rate:0.001500 elitismRate:0.600000
+best Found with seed 12222: fitness 0
+1 0 0 0 0 
+1 0 0 1 1 
+0 1 1 1 1 
+0 0 1 1 0 
+0 0 0 0 0 
+
+soal 5x5puzHard-8,150,315.txt using seed 12222 populasi awal: 10000 banyakGenerasi: 10000 crossover rate:0.130000 mutation rate:0.001500 elitismRate:0.300000

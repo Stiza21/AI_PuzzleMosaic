@@ -14,20 +14,20 @@ public class Main {
     public static void main(String[] args) {
         int boardSize=0;
         String[] puzzles ={
-            "Genetic\\5x5puzHard-8,150,315.txt",
-            "Genetic\\5x5puzHard-9,779,048.txt",
-            "Genetic\\10x10puzHard-3,042,336.txt",
-            "Genetic\\10x10puzHard-4,359,451.txt",
-            "Genetic\10x10puzHard-4,359,451.txt",
-            "Genetic\\15x15puzHard-4,515,219.txt",
-            "Genetic\\20x20puzHard-4,287,083.txt",
-            "Genetic\\20x20puzHard-9,839,579.txt",
+            "5x5puzHard-8,150,315.txt",
+            "5x5puzHard-9,779,048.txt",
+            "10x10puzHard-3,042,336.txt",
+            "10x10puzHard-4,359,451.txt",
+            "10x10puzHard-4,359,451.txt",
+            "15x15puzHard-4,515,219.txt",
+            "20x20puzHard-4,287,083.txt",
+            "20x20puzHard-9,839,579.txt",
         };
         int[] seeds={130,12521431,12222};
         int[] populasiAwals = {1000,5000,10000};
         int[] banyakGenerasis = {1000, 5000, 10000};
-        double[] rateMutasis = {0.002,0.00150,003};
-        double[] crossoverRates = {0,5,0.9,0.13};
+        double[] rateMutasis = {0.002,0.00150,0.003};
+        double[] crossoverRates = {0.5,0.9,0.13};
         double[] elitismRates = {0.3,0.1,0.6};
 
         for (String soal:puzzles){
