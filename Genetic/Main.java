@@ -4,6 +4,9 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
+    //line 82 tipe crossover
+    //operation selection function pilih 1
+    //operation line 140 tipe mutasi
     static boolean[] isFixed;
     static int[] fixedValues;
     static Layout layout;
