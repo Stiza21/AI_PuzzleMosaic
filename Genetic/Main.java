@@ -9,46 +9,59 @@ public class Main {
     static Layout layout;
     static Random rd;
     public static void main(String[] args) {
-        int seed=0,populasiAwal=0, banyakGenerasi=0;
-        double rateMutasi=0, crossoverRate=0, elitismRate=0;
         int boardSize=0;
-        //input logic
-        try {
-            File fileParam = new File("param.txt");
-            Scanner scParam = new Scanner(fileParam);
-            seed = Integer.parseInt(scParam.nextLine().strip().substring(6));
-            populasiAwal = Integer.parseInt(scParam.nextLine().strip().substring(14));
-            banyakGenerasi = Integer.parseInt(scParam.nextLine().strip().substring(16));
-            rateMutasi = Double.parseDouble(scParam.nextLine().strip().substring(11));
-            crossoverRate = Double.parseDouble(scParam.nextLine().strip().substring(14));
-            elitismRate = Double.parseDouble(scParam.nextLine().strip().substring(12));
+        String[] puzzles ={
+            "Genetic\\5x5puzHard-8,150,315.txt",
+            "Genetic\\5x5puzHard-9,779,048.txt",
+            "Genetic\\10x10puzHard-3,042,336.txt",
+            "Genetic\\10x10puzHard-4,359,451.txt",
+            "Genetic\10x10puzHard-4,359,451.txt",
+            "Genetic\\15x15puzHard-4,515,219.txt",
+            "Genetic\\20x20puzHard-4,287,083.txt",
+            "Genetic\\20x20puzHard-9,839,579.txt",
+        };
+        int[] seeds={130,12521431,12222};
+        int[] populasiAwals = {1000,5000,10000};
+        int[] banyakGenerasis = {1000, 5000, 10000};
+        double[] rateMutasis = {0.002,0.00150,003};
+        double[] crossoverRates = {0,5,0.9,0.13};
+        double[] elitismRates = {0.3,0.1,0.6};
 
-            scParam.close();
-            File filePuzzle = new File("puzzle.txt");
-            Scanner scPuzzle = new Scanner(filePuzzle);
-            ArrayList<int[]> request = new ArrayList<>();
-            while(scPuzzle.hasNext()){
-                String[] baris = scPuzzle.nextLine().strip().split(" ");
-                boardSize++;
-                int[] line = new int[baris.length];
-                for (int i=0;i<baris.length;i++){
-                    if (baris[i].equals("."))line[i]=-1;
-                    else line[i]=Integer.parseInt(baris[i]);
+        for (String soal:puzzles){
+            try {
+                File filePuzzle = new File(soal);
+                Scanner scPuzzle = new Scanner(filePuzzle);
+                ArrayList<int[]> request = new ArrayList<>();
+                while(scPuzzle.hasNext()){
+                    String[] baris = scPuzzle.nextLine().strip().split(" ");
+                    boardSize++;
+                    int[] line = new int[baris.length];
+                    for (int i=0;i<baris.length;i++){
+                        if (baris[i].equals("."))line[i]=-1;
+                        else line[i]=Integer.parseInt(baris[i]);
+                    }
+                    request.add(line);
                 }
-                request.add(line);
+                //input logic
+                int totalGen = boardSize * boardSize;
+                isFixed = new boolean[totalGen];
+                fixedValues = new int[totalGen];
+                applyHeuristics(request, boardSize);
+                layout = new Layout(request.toArray(new int[boardSize][]));
+                scPuzzle.close();
+            } catch (Exception e) {
+                System.out.println("salah path soal");
             }
-            layout = new Layout(request.toArray(new int[boardSize][]));
-        int totalGen = boardSize * boardSize;
-        isFixed = new boolean[totalGen];
-        fixedValues = new int[totalGen];
+            for (int seed:seeds)
+            for(int populasiAwal:populasiAwals)
+            for (int banyakGenerasi: banyakGenerasis)
+            for (double rateMutasi: rateMutasis){
+            for (double crossoverRate: crossoverRates)
+            for (double elitismRate:elitismRates)
+        {
+        
 
-        applyHeuristics(request, boardSize);
-            scPuzzle.close();
-        } catch (Exception e) {
-            System.out.println(e);
-        }
-
-        System.out.printf("using seed %d crossover rate:%f mutation rate:%f\n", seed,crossoverRate,rateMutasi);
+        System.out.printf("soal %s using seed %d populasi awal: %d banyakGenerasi: %d crossover rate:%f mutation rate:%f elitismRate:%f\n", soal, seed,populasiAwal, banyakGenerasi,crossoverRate,rateMutasi, elitismRate);
 
         //pembuatan objek random dan operasi
         rd = new Random(seed);
@@ -62,7 +75,7 @@ public class Main {
         
         Kromosom best = population.getBest();
         int bestFitness = best.getNewFitness();
-        while(banyakGenerasi-->0){
+        for (int generasi = 0;generasi<banyakGenerasi;generasi++){
             //System.out.println(banyakGenerasi+" generasi tersisa");
 
             //perlu specify make tipe crossover yang mana
@@ -85,7 +98,11 @@ public class Main {
             }
             System.out.println();
         }
+        System.out.println();
+        }
     }
+}
+}
     public static void applyHeuristics(ArrayList<int[]> grid, int size) {
         for (int r = 0; r < size; r++) {
             for (int c = 0; c < size; c++) {
