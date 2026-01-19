@@ -10,7 +10,7 @@ public class Main {
     static Random rd;
     public static void main(String[] args) {
         int seed=0,populasiAwal=0, banyakGenerasi=0;
-        double rateMutasi=0,crossoverRate=0,elitismRate=0;
+        double rateMutasi=0, crossoverRate=0, elitismRate=0;
         int boardSize=0;
         //input logic
         try {
@@ -74,7 +74,8 @@ public class Main {
                 best = generationBest;
                 bestFitness = best.getNewFitness();
             }
-            //System.out.println(banyakGenerasi+" generations left");
+            if (bestFitness==0) break;
+
         }
         System.out.printf("best Found with seed %d: fitness %d\n", seed,bestFitness);
         int[] bestGenes = best.getGenes();
