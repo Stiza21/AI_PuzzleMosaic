@@ -4,21 +4,22 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    //line 82 tipe crossover
+    //line 85 tipe crossover
     //operation selection function pilih 1
     //operation line 140 tipe mutasi
     static boolean[] isFixed;
     static int[] fixedValues;
     static Layout layout;
     static Random rd;
+    static int boardSize;
     public static void main(String[] args) {
-        int boardSize=0;
         String[] puzzles ={
             "5x5puzHard-8,150,315.txt",
             "5x5puzHard-9,779,048.txt",
             "10x10puzHard-3,042,336.txt",
             "10x10puzHard-4,359,451.txt",
             "10x10puzHard-4,359,451.txt",
+            "15x15puzHard-2,321,406.txt",
             "15x15puzHard-4,515,219.txt",
             "20x20puzHard-4,287,083.txt",
             "20x20puzHard-9,839,579.txt",
@@ -26,12 +27,13 @@ public class Main {
         int[] seeds={130,12521431,12222};
         int[] populasiAwals = {1000,5000,10000};
         int[] banyakGenerasis = {1000, 5000, 10000};
-        double[] rateMutasis = {0.002,0.00150,0.003};
-        double[] crossoverRates = {0.5,0.9,0.13};
-        double[] elitismRates = {0.3,0.1,0.6};
+        double[] rateMutasis = {0.00150,0.002,0.003};
+        double[] crossoverRates = {0.9,0.5,0.13};
+        double[] elitismRates = {0.1,0.3,0.6};
 
         for (String soal:puzzles){
             try {
+                boardSize=0;
                 File filePuzzle = new File(soal);
                 Scanner scPuzzle = new Scanner(filePuzzle);
                 ArrayList<int[]> request = new ArrayList<>();
@@ -55,18 +57,34 @@ public class Main {
             } catch (Exception e) {
                 System.out.println("salah path soal");
             }
-            for (int seed:seeds)
-            for(int populasiAwal:populasiAwals)
-            for (int banyakGenerasi: banyakGenerasis)
-            for (double rateMutasi: rateMutasis){
-            for (double crossoverRate: crossoverRates)
-            for (double elitismRate:elitismRates)
-        {
-        
-
-        System.out.printf("soal %s using seed %d populasi awal: %d banyakGenerasi: %d crossover rate:%f mutation rate:%f elitismRate:%f\n", soal, seed,populasiAwal, banyakGenerasi,crossoverRate,rateMutasi, elitismRate);
-
-        //pembuatan objek random dan operasi
+            for (int seed:seeds){
+                System.out.printf("soal %s seed%d baseline\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[1],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d populasiRendah\n", soal, seed);
+                GA(seed,populasiAwals[0], banyakGenerasis[1], rateMutasis[1],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d populasiTinggi\n", soal, seed);
+                GA(seed,populasiAwals[2], banyakGenerasis[1], rateMutasis[1],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d generasiSedikit\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[0], rateMutasis[1],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d generasiBanyak\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[2], rateMutasis[1],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d mutasiRendah\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[0],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d mutasiTinggi\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[2],crossoverRates[1], elitismRates[1]);
+                System.out.printf("soal %s seed%d crossoverRendah\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[1],crossoverRates[0], elitismRates[1]);
+                System.out.printf("soal %s seed%d crossoverTinggi\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[1],crossoverRates[2], elitismRates[1]);
+                System.out.printf("soal %s seed%d elitismRendah\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[1],crossoverRates[1], elitismRates[0]);
+                System.out.printf("soal %s seed%d elitismTinggi\n", soal, seed);
+                GA(seed,populasiAwals[1], banyakGenerasis[1], rateMutasis[1],crossoverRates[1], elitismRates[2]);
+                
+            }
+        }
+    }
+    public static void GA(int seed, int populasiAwal, int banyakGenerasi,double rateMutasi, double crossoverRate, double elitismRate){
         rd = new Random(seed);
         Operation op = new Operation(rd,rateMutasi,crossoverRate,elitismRate,isFixed);
         //pembuatan populasi awal
@@ -102,10 +120,7 @@ public class Main {
             System.out.println();
         }
         System.out.println();
-        }
     }
-}
-}
     public static void applyHeuristics(ArrayList<int[]> grid, int size) {
         for (int r = 0; r < size; r++) {
             for (int c = 0; c < size; c++) {
